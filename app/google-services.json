@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "294798934650",
+    "firebase_url": "https://gdg-maputo-fa849.firebaseio.com",
+    "project_id": "gdg-maputo-fa849",
+    "storage_bucket": "gdg-maputo-fa849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294798934650:android:7c0d3383cf0bebb1",
+        "android_client_info": {
+          "package_name": "com.example.emutombene.gdgmaputo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294798934650-9fspmltk7erpqn6lqob6ko2vr3i1r2jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emutombene.gdgmaputo",
+            "certificate_hash": "70a344d0cce80d1aed7fba7f55c31263eacf0a69"
+          }
+        },
+        {
+          "client_id": "294798934650-8lfnqr7akv0t0h3s3b9kuiln17t50qej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-g_m0XobhwoQinjMRQ6BLOhSpZNc_Yw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294798934650-8lfnqr7akv0t0h3s3b9kuiln17t50qej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
